@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/ec2-user/spp/ch/trunk/app/spp/dmatrix'
+let g:netrw_dirhist_2='/home/ec2-user/.vim/autoload/go'
+let g:netrw_dirhist_3='/home/ane/gocode/src/github.com/co-sky-developers/via'
+let g:netrw_dirhist_4='/home/ane/gocode/src/github.com/nfleet/via/.git'
+let g:netrw_dirhist_5='/etc/nginx'
